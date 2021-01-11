@@ -1,1 +1,3 @@
-# django_script
+# Django Example
+
+A django example for starting scripts.
